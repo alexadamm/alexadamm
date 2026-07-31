@@ -1,17 +1,13 @@
-<h1 align="center"> Hi there, I'm Alexander Adam 👋 </h1>
-<h3 align="center">Aspiring Back End Developer & Computer Science Student </h3>
+<h1 align="center">Alexander Adam Mukhaer</h1>
+<h3 align="center">Backend & systems engineer · Go, TypeScript, Rust</h3>
 
-<p align="center"> I'm seeking to expand my technical knowledge and grow professionally while pursuing a Bachelor's degree.</p>
+I've spent 3+ years building production microservices: loyalty, auth, and merchant platforms, mostly shared infrastructure (multi-tenant auth services, inter-service libraries, performance work).
 
+- Open to remote backend and infrastructure roles (UTC+7, based in Indonesia)
+- Interests: backend platforms, infrastructure, and security engineering
+- I write about what I build at [alendraa.dev](https://alendraa.dev)
 
-- 🔭 I’m currently studying Computer Science at Universitas Gadjah Mada.
-- 💼 I'm currently working as a Back-End Developer at Ultra Voucher.
-- 🌱 I’m currently learning Back-End Development, Flutter Development, DevOps, etc.
-- 💻 My tech stacks include:
-  - Frameworks: NestJS, ExpressJS, HapiJS, Flutter, Springboot
-  - Languages: TypeScript, JavaScript, Dart, Java
-  - Databases: Redis, Firebase, PostgreSQL, MySQL, MongoDB
-- 📫 How to reach me: official.alexadam@gmail.com
+📫 official.alexadam@gmail.com · [LinkedIn](https://www.linkedin.com/in/alexadamm/) · [alendraa.dev](https://alendraa.dev)
 
 -----
 
